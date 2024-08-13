@@ -1,0 +1,35 @@
+মডিউল ৫ এর অ্যাসাইনমেন্ট
+Assignment :
+-----------------------
+In this assignment, you have to build a template using HTML,  CSS, Bootstrap
+
+Requirements:
+-------------
+Your file server should meet the following requirements:
+
+01. Create an HTML structure and add CSS and Bootstrap to it.
+
+02. Create 10 buttons by Bootstrap Each button should have different colors and properties.
+
+03. Create a card.
+
+04. Create some form using form-group bootstrap class.
+
+05. Create some list with list-group bootstrap class.
+
+06. Create a navbar with Bootstrap
+
+07. Create a progress-bar with Bootstrap.
+
+08. Create a pagination with Bootstrap.
+
+09. Create a table with Bootstrap.
+
+10. Create a dropdown with Bootstrap
+
+
+Instructions:
+-------------
+Follow these instructions to complete the assignment:
+
+https://github.com/arifurroni/Asignment_Module-05
